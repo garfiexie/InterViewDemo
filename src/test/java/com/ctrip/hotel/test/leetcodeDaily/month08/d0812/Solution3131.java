@@ -1,4 +1,4 @@
-package com.ctrip.hotel.test.leetcodeDaily;
+package com.ctrip.hotel.test.leetcodeDaily.month08.d0812;
 
 import java.util.Arrays;
 
